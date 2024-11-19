@@ -34,5 +34,5 @@ This project demonstrates end-to-end expertise in data science and machine learn
 - matplotlib, seaborn – Data visualization.
 
 
-- __Dataset:__ [Telecom Customer Churn Dataset](https://raw.githubusercontent.com/YBIFoundation/Dataset/main/TelecomCustomerChurn.csv) <br/>
+## - Dataset: [Telecom Customer Churn Dataset](https://raw.githubusercontent.com/YBIFoundation/Dataset/main/TelecomCustomerChurn.csv) <br/>
 - __Skills Demonstrated:__ Data preprocessing, feature engineering, deep learning, and model evaluation.
