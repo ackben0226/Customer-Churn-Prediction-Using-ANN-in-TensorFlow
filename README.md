@@ -20,15 +20,15 @@ This project demonstrates end-to-end expertise in data science and machine learn
 - License
   
 📌 Key Highlights
-Real-World Business Problem: Tackles the critical issue of customer churn prediction in the telecom sector.
-Machine Learning Expertise: Implements a neural network-based solution using TensorFlow, showcasing proficiency in cutting-edge AI tools.
-Data-Driven Insights: Utilizes exploratory analysis to extract actionable trends.
-Full Workflow Execution: Covers data preparation, model building, hyperparameter tuning, and evaluation.
+- --Real-World Business Problem:-- Tackles the critical issue of customer churn prediction in the telecom sector.
+- --Machine Learning Expertise:-- Implements a neural network-based solution using TensorFlow, showcasing proficiency in cutting-edge AI tools.
+- --Data-Driven Insights:-- Utilizes exploratory analysis to extract actionable trends.
+- --Full Workflow Execution:-- Covers data preparation, model building, hyperparameter tuning, and evaluation.
 
 
 🛠️ Technologies and Tools
-Programming Language: Python <br/>
-Libraries:
-TensorFlow – Neural network construction and training.
-pandas, numpy – Data manipulation and analysis.
-matplotlib, seaborn – Data visualization.
+- Programming Language: Python <br/>
+- Libraries:
+- TensorFlow – Neural network construction and training.
+- pandas, numpy – Data manipulation and analysis.
+- matplotlib, seaborn – Data visualization.
