@@ -82,17 +82,14 @@ cd Customer_Churn_Prediction
 
 ## 📈 Results
 - Evaluation Metrics:
-  - Accuracy: 85% (example)
-  - AUC-ROC: 0.91 (example)
-(Add detailed performance metrics here to showcase the model's effectiveness.)
+  - Accuracy: 84% 
+  - AUC-ROC: 0.81 
 
 ## 💼 About Me
 👋 Hi, I’m [Benjamin Ackah]!
 
 Aspiring Machine Learning Engineer passionate about solving real-world problems using AI.
 Proficient in Python, TensorFlow, and end-to-end machine learning pipelines.
-Check out my portfolio on GitHub and [LinkedIn](https://www.linkedin.com/in/ackahbenjamin/).
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Check out my portfolio on [GitHub](https://github.com/signup?user_email=ack.ben0226%40gmail.com&source=form-home-signup) and [LinkedIn](https://www.linkedin.com/in/ackahbenjamin/).
 
 
