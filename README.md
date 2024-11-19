@@ -6,7 +6,7 @@ This project demonstrates end-to-end expertise in data science and machine learn
 
 
 
-📑 ## Table of Contents
+## 📑  Table of Contents
 - Key Highlights
 - Technologies and Tools
 - Project Workflow
@@ -27,7 +27,7 @@ Full Workflow Execution: Covers data preparation, model building, hyperparameter
 
 
 🛠️ Technologies and Tools
-< br/ Programming Language: Python 
+Programming Language: Python <br/>
 Libraries:
 TensorFlow – Neural network construction and training.
 pandas, numpy – Data manipulation and analysis.
