@@ -39,7 +39,7 @@ This project demonstrates end-to-end expertise in data science and machine learn
 
 ## 🌐 Project Workflow
 1. __Data Preprocessing:__
-   - Encoding categorical variables using one-hot encoding.
+   -- Encoding categorical variables using one-hot encoding.
    - Scaling numerical features like tenure and MonthlyCharges for consistency.
 2. __Exploratory Analysis:__
    - Visualizing relationships between churn and key variables (e.g., tenure, monthly charges).
