@@ -34,7 +34,7 @@ This project demonstrates end-to-end expertise in data science and machine learn
 - matplotlib, seaborn – Data visualization.
 
 
-### - Dataset: [Telecom Customer Churn Dataset](https://raw.githubusercontent.com/YBIFoundation/Dataset/main/TelecomCustomerChurn.csv) <br/>
+###  Dataset: [Telecom Customer Churn Dataset](https://raw.githubusercontent.com/YBIFoundation/Dataset/main/TelecomCustomerChurn.csv) <br/>
 - __Skills Demonstrated:__ Data preprocessing, feature engineering, deep learning, and model evaluation.
 
 ## 🌐 Project Workflow
@@ -70,10 +70,11 @@ Ensure the following are installed:
 bash
 Copy code
 pip install pandas numpy matplotlib seaborn tensorflow
+
 Installation
 Clone this repository:
-bash
-Copy code
+bash <br/>
+Copy code <br/>
 git clone https://github.com/your-username/Customer_Churn_Prediction.git
 Navigate to the project directory:
 bash
