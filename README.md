@@ -86,7 +86,7 @@ cd Customer_Churn_Prediction
   - AUC-ROC: 0.81 
 
 ## 💼 About Me
-👋 Hi, I’m [Benjamin Ackah]!
+👋 Hi, I’m Benjamin Ackah!
 
 Aspiring Machine Learning Engineer passionate about solving real-world problems using AI.
 Proficient in Python, TensorFlow, and end-to-end machine learning pipelines.
