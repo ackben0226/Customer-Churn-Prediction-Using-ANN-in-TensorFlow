@@ -67,9 +67,7 @@ _(Highlight the relationship between monthly charges and customer churn.)_
 Ensure the following are installed:
 - Python 3.7 or above
 - Required libraries:
-bash
-Copy code
-pip install pandas numpy matplotlib seaborn tensorflow
+<br/> pip install pandas numpy matplotlib seaborn tensorflow
 
 Installation
 Clone this repository:
