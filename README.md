@@ -71,12 +71,12 @@ Ensure the following are installed:
 
 - Installation
 1. Clone this repository:
-code <br/>
 <br/> <mark>git clone https://github.com/ackben0226/Customer_Churn_Prediction.git</mark> 
 2. Navigate to the project directory:
 cd Customer_Churn_Prediction
 3. Open the Jupyter Notebook:
-jupyter notebook Customer_Churn_Prediction_Using_ANN_TensorFlow.ipynb
+  <br/> jupyter notebook Customer_Churn_Prediction_Using_ANN_TensorFlow.ipynb[https://colab.research.google.com/drive/1aAXz0Sg1Mg0GH2Vn1Vgu-fWEcFcGmgr7?authuser=1]
+
 
 ## 📈 Results
 - Evaluation Metrics:
@@ -84,8 +84,8 @@ jupyter notebook Customer_Churn_Prediction_Using_ANN_TensorFlow.ipynb
   - AUC-ROC: 0.91 (example)
 (Add detailed performance metrics here to showcase the model's effectiveness.)
 
-💼 About Me
-👋 Hi, I’m [Your Name]!
+## 💼 About Me
+👋 Hi, I’m [Benjamin Ackah]!
 
 Aspiring Machine Learning Engineer passionate about solving real-world problems using AI.
 Proficient in Python, TensorFlow, and end-to-end machine learning pipelines.
