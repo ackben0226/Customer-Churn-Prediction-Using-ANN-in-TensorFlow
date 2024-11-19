@@ -71,10 +71,12 @@ Ensure the following are installed:
 
 - Installation
 1. Clone this repository:
-<br/> <mark>git clone https://github.com/ackben0226/Customer_Churn_Prediction.git</mark> 
-2. Navigate to the project directory:
+<br/> <mark>git clone https://github.com/ackben0226/Customer_Churn_Prediction.git</mark>
+
+3. Navigate to the project directory:
 cd Customer_Churn_Prediction
-3. Open the Jupyter Notebook:
+
+5. Open the Jupyter Notebook:
   <br/> [jupyter notebook Customer_Churn_Prediction_Using_ANN_TensorFlow.ipynb](https://colab.research.google.com/drive/1aAXz0Sg1Mg0GH2Vn1Vgu-fWEcFcGmgr7?authuser=1)
 
 
@@ -89,7 +91,7 @@ cd Customer_Churn_Prediction
 
 Aspiring Machine Learning Engineer passionate about solving real-world problems using AI.
 Proficient in Python, TensorFlow, and end-to-end machine learning pipelines.
-Check out my portfolio on GitHub and LinkedIn.
+Check out my portfolio on GitHub and [LinkedIn](https://www.linkedin.com/in/ackahbenjamin/).
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
