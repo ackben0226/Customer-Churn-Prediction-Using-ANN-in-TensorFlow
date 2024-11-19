@@ -29,9 +29,9 @@ This project demonstrates end-to-end expertise in data science and machine learn
 ## 🛠️ Technologies and Tools
 - Programming Language: Python <br/>
 - Libraries:
-- TensorFlow – Neural network construction and training.
-- pandas, numpy – Data manipulation and analysis.
-- matplotlib, seaborn – Data visualization.
+  - TensorFlow – Neural network construction and training.
+  - pandas, numpy – Data manipulation and analysis.
+  - matplotlib, seaborn – Data visualization.
 
 
 ###  Dataset: [Telecom Customer Churn Dataset](https://raw.githubusercontent.com/YBIFoundation/Dataset/main/TelecomCustomerChurn.csv) <br/>
