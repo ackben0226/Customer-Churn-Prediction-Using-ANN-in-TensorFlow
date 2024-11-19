@@ -67,25 +67,21 @@ _(Highlight the relationship between monthly charges and customer churn.)_
 Ensure the following are installed:
 - Python 3.7 or above
 - Required libraries:
-  <mark>pip install pandas numpy matplotlib seaborn tensorflow</mark> <br/> pip install pandas numpy matplotlib seaborn tensorflow
+ <br/> <mark>pip install pandas numpy matplotlib seaborn tensorflow</mark> 
 
-Installation
-Clone this repository:
-bash <br/>
-Copy code <br/>
-git clone https://github.com/your-username/Customer_Churn_Prediction.git
-Navigate to the project directory:
-bash
-Copy code
+- Installation
+1. Clone this repository:
+code <br/>
+<br/> <mark>git clone https://github.com/ackben0226/Customer_Churn_Prediction.git</mark> 
+2. Navigate to the project directory:
 cd Customer_Churn_Prediction
-Open the Jupyter Notebook:
-bash
-Copy code
+3. Open the Jupyter Notebook:
 jupyter notebook Customer_Churn_Prediction_Using_ANN_TensorFlow.ipynb
-📈 Results
-Evaluation Metrics:
-Accuracy: 85% (example)
-AUC-ROC: 0.91 (example)
+
+## 📈 Results
+- Evaluation Metrics:
+  - Accuracy: 85% (example)
+  - AUC-ROC: 0.91 (example)
 (Add detailed performance metrics here to showcase the model's effectiveness.)
 
 💼 About Me
