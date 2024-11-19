@@ -75,7 +75,7 @@ Ensure the following are installed:
 2. Navigate to the project directory:
 cd Customer_Churn_Prediction
 3. Open the Jupyter Notebook:
-  <br/> jupyter notebook Customer_Churn_Prediction_Using_ANN_TensorFlow.ipynb[https://colab.research.google.com/drive/1aAXz0Sg1Mg0GH2Vn1Vgu-fWEcFcGmgr7?authuser=1]
+  <br/> [jupyter notebook Customer_Churn_Prediction_Using_ANN_TensorFlow.ipynb](https://colab.research.google.com/drive/1aAXz0Sg1Mg0GH2Vn1Vgu-fWEcFcGmgr7?authuser=1)
 
 
 ## 📈 Results
